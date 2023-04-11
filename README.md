@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-👀 I’m interested in BlockChain, Web3 and many other stacks
-🌱 I’m currently working as a Full Stack with using  JS and Django 
-💬 You can connect with me via social apps
-⚡  I love to create, thats enough reason for me to love coding
-💞️ I’m looking to collaborate for mutual learning and open source contribtuion purpose.
+-🔭 I’m a Software Enginner
+-👀 I’m interested in BlockChain, Web3 and few other stacks
+-🌱 I’m currently working as a Full Stack by using  React JS and Django 
+-💬 You can connect with me via social apps
+-⚡  I love to create, thats enough reason for me to love coding
+-💞️ I’m looking to collaborate for mutual learning and open source contribtuion purpose.
 
 
 ## 🔗 Links
