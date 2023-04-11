@@ -1,24 +1,12 @@
-### Hi there, Myself Muhammad Zain 👋
+### Hi there, Myself @Zain 👋
+<br/>
+- 🔭 I’m a Software Enginner<br/>
+- 👀 I’m interested in BlockChain, Web3 and few other stacks<br/>
+- 🌱 I’m currently working as a Full Stack by using React JS and Django <br/>
+- 💬 You can connect with me<br/>
+- 📫 I'm always available for open source contributions
 
-<!--
-**zainshahbaz786/zainshahbaz786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m a Software Enginner
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
--🔭 I’m a Software Enginner
--👀 I’m interested in BlockChain, Web3 and few other stacks
--🌱 I’m currently working as a Full Stack by using  React JS and Django 
--💬 You can connect with me via social apps
--⚡  I love to create, thats enough reason for me to love coding
--💞️ I’m looking to collaborate for mutual learning and open source contribtuion purpose.
 
 
 ## 🔗 Links
