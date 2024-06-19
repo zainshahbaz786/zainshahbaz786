@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🌱 I’m currently working as a **Full Stack Developer** using React/Next JS and Django as backend support<br/>
+ 🌱 I’m currently working as a **Full Stack Developer** usign Django-React stack in **North American Based-MNC** company in 🇨🇦 <br/>
  🔭 I’m currently learning **Docker, AWS, Blockchain, Web3 and few more stacks** <br/>
  📫 I'm always available for **open-source contributions** <br/>
 
