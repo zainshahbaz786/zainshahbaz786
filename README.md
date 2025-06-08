@@ -4,7 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=450&height=50&duration=4000&lines=Senior+Full+Stack+Eng;" />
 </div>
 
-**Full Stack Engineer** | **4+ years** | 🇵🇰→🇸🇦  
+**Full Stack Engineer** | **4+ years** 
+</n>
+<!--**🇵🇰 Grit from Pakistan → 🇺🇸 Ambition from the USA → 🇸🇦 Structure from Saudi Arabia — exploring work ethics across cultures.** -->
+ 
 US Startups & MNC==> • Django • React • Next JS • Microservice Architecture •   AI Explorer  
 Passionate Towards==> • Cybersecurity (RedHat / BlueHat)  • AI/Dataset Models • Blockchain 
 </n>
