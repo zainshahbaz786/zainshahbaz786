@@ -1,34 +1,28 @@
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Myself+@Zain;" />
-</h1>
-
-<h3 align="center">A passionate Software Engineer from Islamabad, 🇵🇰 living in Riyadh k🇸🇦 </h3>
-
-<br/>
+# Hi, I'm Muhammad Zain 👋
 
 <div align="center">
- 
- 🌱 I’m currently working as a **Full Stack Developer** using Django-React stack in **North American Based-MNC** company. Also, I worked with 🇺🇸 based startup as well.  <br/>
- 🔭 I’m currently learning **Docker, AWS, Blockchain, Web3 and few more stacks** <br/>
- 📫 I'm always available for **open-source contributions** <br/>
-
-💬 Ask me about **Next.js, React JS, Django,  PostgreSQL... or anything by raising issues[here](https://github.com/salesp07/salesp07/issues)** <br/>
-
-⚡ I love exploring the universe of technology as it's a part of my journey.
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:zainjatt.zj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/zain-shahbaz-874712165/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.craftwithzayn.pro/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=450&height=50&duration=4000&lines=Senior+Full+Stack+Eng;" />
 </div>
 
- <hr/>
+**Full Stack Engineer** | **4+ years** | 🇵🇰→🇸🇦  
+US Startups & MNC==> • Django • React • Next JS • Microservice Architecture •   AI Explorer  
+Passionate Towards==> • Cybersecurity (RedHat / BlueHat)  • AI/Dataset Models • Blockchain 
+</n>
+
+🏆 AU-Hackathon Winner • ⭐ Open Source Contributor 
+
+```python
+all_about_muhammad_zain = {
+    "experience": "4+ years",
+    "focus": ["Discovering every aspect as a Computer Scientist"],
+    "achievements": ["Hackathons", "Open Source"],
+    "status": "trying to be the best of Myself 🚀"
+}
+```
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Get_in_Touch-4A5568?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:zainjatt.zj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-shahbaz-874712165/)
+[![Portfolio](https://img.shields.io/badge/View_Work-581C87?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.craftwithzayn.pro/)
+</div>
